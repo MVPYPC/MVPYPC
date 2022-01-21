@@ -4,7 +4,7 @@
 - :gift_heart: :basketball:basketball :guitar: guitar :microphone:King of KTV :tongue:spicy food 👩‍❤️‍👨:peach:
 - :basketball: LeBron James && Lakers && Cavaliers 
 - 🌱 I’m currently learning Java,html,css,wechat_miniprogram...
-- 📫 Reach me by 860720326@qq.com
+- 📫 Reach me by 4everyoang@gmail.com
 - :octocat: https://mvpypc.github.io/
 - 等:older_man:学会了HTML就回来 ~~把这玩意染成绿色的~~ 把这主页搞得花里胡哨的:exclamation::exclamation::exclamation::yum::yum::yum::heart_eyes::heart_eyes::heart_eyes:
 <!---
