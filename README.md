@@ -3,7 +3,6 @@
 - :triangular_flag_on_post: 重庆city
 - :gift_heart: basketball:basketball:  guitar:guitar: King of KTV:microphone: spicy food:tongue: 
 - :basketball: LeBron James && Lakers && Cavaliers 
-- 🌱 I’m currently learning Java,html,css,wechat_miniprogram...
 - 📫 Reach me by 4everyoang@gmail.com
 - :octocat: https://mvpypc.github.io/
 <!---
